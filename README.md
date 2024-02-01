@@ -1,0 +1,1 @@
+The ubiquitous nature of QR codes has created a demand for user-friendly and efficient tools to generate them. This project aims to develop a QR code generator with features exceeding the functionalities of existing options.This is project to create using html,css,js
